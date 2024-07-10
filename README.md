@@ -7,7 +7,12 @@
 1. **Start Your DSA Journey**
     - **Data Structures and Algorithms (DSA)** are fundamental to efficient programming. Begin by understanding basic data structures like arrays, linked lists, stacks, and queues.
     - Recommended Resources:
-        - [GeeksforGeeks DSA Tutorial](https://www.geeksforgeeks.org/data-structures/)
+        - [Code interview university](https://github.com/jwasham/coding-interview-university)
+        - [Runstone academy](https://runestone.academy/ns/books/published/pythonds/index.html)
+        - [Data structures and algorithms a quick read](https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/)
+        - [Video tutorial 1hr](https://youtu.be/BBpAmxU_NQo?si=wMRBUSpM1PkDrHsg)
+        - [Video tutorial 3hr](https://youtu.be/zg9ih6SVACc?si=ZTZU7xvn9MXqbxE-)
+        - [More resources](https://dev.to/ayabouchiha/free-resources-to-master-algorithms-data-structure-2nfj)
         - [LeetCode](https://leetcode.com/) for practicing problems.
 
 2. **Improve Your Preferred Programming Language**
@@ -16,8 +21,10 @@
         - **Java:** Widely used in industry and great for object-oriented programming.
         - **Python:** Easy to learn, versatile, and used in many areas from web development to data science.
     - Recommended Resources:
+        - [Learn cpp](https://www.learncpp.com/)
         - [C++ Tutorial by Sololearn](https://www.sololearn.com/Course/CPlusPlus/)
         - [Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming)
+        - [python documentations](https://docs.python.org/3/)
         - [Python for Everybody](https://www.coursera.org/specializations/python)
 
 3. **Start HTML CSS and javascript**
