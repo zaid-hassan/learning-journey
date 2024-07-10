@@ -33,7 +33,7 @@
 	- [CSS freecodecamp](https://youtu.be/1Rs2ND1ryYc?si=Y1GBMuS6NCHRZUXo)
 	- [CSS crash course](https://youtu.be/yfoY53QXEnI?si=7dTzsjM4L4xNsQvG)
 	- [Learn flex box playing games](https://flexboxfroggy.com/)
-	- [Learn grid playing games(https://cssgridgarden.com/)
+	- [Learn grid playing games](https://cssgridgarden.com/)
 	- [Learn Hex code playing games](http://www.hexinvaders.com/)
 	- [Flex box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 	- [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
