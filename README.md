@@ -63,7 +63,7 @@
 	- [freecodecamp git and github](https://www.freecodecamp.org/news/introduction-to-git-and-github/)
 	- [freecodecamp git and github video tutorial](https://youtu.be/RGOj5yH7evk?si=lL85w9-NmYWHrEh_)
 	- [git and github hindi](https://youtu.be/q8EevlEpQ2A?si=BZ7Lb7m3_MoORaZZ)
-        - [LinkedIn Learning](https://www.linkedin.com/learning/)
+- [LinkedIn Learning](https://www.linkedin.com/learning/)
 
 ### Graphics and 3D
 
