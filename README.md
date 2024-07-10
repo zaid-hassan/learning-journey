@@ -31,8 +31,8 @@
     - Gain basic web development skills to create and design simple web pages.
     - Recommended Resources:
 	- [mdn HTML documentaions](https://developer.mozilla.org/en-US/docs/Web/HTML)
-        - [HTML freecodecamp](https://youtu.be/kUMe1FH4CHE?si=zYrz9-xIh95hKGAM)
-        - [HTML crash course](https://youtu.be/UB1O30fR-EE?si=ujgWKAEnyj6AwH54)
+    - [HTML freecodecamp](https://youtu.be/kUMe1FH4CHE?si=zYrz9-xIh95hKGAM)
+    - [HTML crash course](https://youtu.be/UB1O30fR-EE?si=ujgWKAEnyj6AwH54)
 	- [HTML best practices](https://github.com/hail2u/html-best-practices)
 	- [HTML playlist hindi](https://www.youtube.com/watch?v=XmLOwJHFHf0&list=PLu71SKxNbfoDBNF5s-WH6aLbthSEIMhMI)
 
